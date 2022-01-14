@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Quote Page</title>
+    </head>
+    
+    <body>
+        <p><b>Top 3 Quotes!</b></p>
+        <ol>
+            <br><li><i>The purpose of our lives is to be happy</li></br>
+            <br><li><b>A NEGATIVE MIND</b> WILL NEVER GIVE YOU <b>A POSITIVE LIFE</b></li></br>
+            <br><li><b>DONE</b> IS BETTER THAN <B>PERFECT</B></li></br></i>
+        </ol>
+        
+    </body>
+    
+</html>
